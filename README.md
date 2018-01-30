@@ -1,14 +1,12 @@
-# App name
+# Demo Events User
 
-[brief description of the app]
+## Introduction
 
-### The following information is displayed:
+Ésta es una demo que trabaja los eventos asociados al cambio de información en Usuarios Zendesk (Agentes o End-Users). 
 
-* info1
-* info2
-* info3
+Más detalle sobre como trabajar con los eventos dentro de Zendesk en el siguiente link:
+https://developer.zendesk.com/apps/docs/developer-guide/using_sdk#working-with-framework-events
 
-Please submit bug reports to [Insert Link](). Pull requests are welcome.
+## Installation
 
-### Screenshot(s):
-[put your screenshots down here.]
+Sólo debes de clonar este repo en un directorio vacío y comprimirlo para luego cargar el .zip o .rar a Zendesk.
